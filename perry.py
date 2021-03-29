@@ -1,1 +1,1 @@
-nom ="Ahmed"
+title = "Formatin en git"
