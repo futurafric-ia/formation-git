@@ -1,2 +1,2 @@
-age = 15
-nom ="Ahmed"
+title = "Formatin en git"
+
